@@ -1,4 +1,4 @@
-# git_trial_version
+# git_trail_version
 INTRODUCTION -->
 What is git ?
 --> Git is a service which is provided by GITHUB platform.
